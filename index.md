@@ -7,6 +7,10 @@
 
 - Complete study documentation for [spark](/spark) and [digit](/digit)
 
+# 2025
+
+- [dipro interbeings](/dipro-interbeings)
+
 # 2024
 - [kiweb](/kiweb)
 - [scifi](/scifi)
