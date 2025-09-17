@@ -22,6 +22,7 @@
   - Project: [Bring out the Lobster/Trial Period](/bring-out-the-lobster)
 - [human](/human)
 - [story](/story)
+- [stuweb1](/stuweb1)
 
 # 2023
 - [kipro](/kipro)
