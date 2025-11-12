@@ -10,6 +10,7 @@
 # 2025
 
 - [dipro interbeings](/dipro-interbeings)
+- [bcon](/bcon)
 
 # 2024
 - [kiweb](/kiweb)
