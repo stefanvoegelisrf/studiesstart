@@ -7,6 +7,11 @@
 
 - Complete study documentation for [spark](/spark) and [digit](/digit)
 
+
+# 2026
+
+- [menx custom midi controller](/menx-custom-midi)
+
 # 2025
 
 - [dipro interbeings](/dipro-interbeings)
